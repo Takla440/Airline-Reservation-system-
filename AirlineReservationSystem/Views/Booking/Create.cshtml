@@ -1,0 +1,90 @@
+﻿@model AirlineReservationSystem.Models.BookingViewModel
+
+@{
+    ViewData["Title"] = "Book Flight";
+}
+
+<h1>Book Flight</h1>
+
+<div class="submit-form">
+    <h4>Check availability for <em>direction</em>:</h4>
+    <form id="form-submit" asp-action="Create" method="post">
+        <div class="row">
+            <div class="col-md-6">
+                <fieldset>
+                    <label for="from">From:</label>
+                    <select asp-for="From" class="form-control" required>
+                        <option value="">Select a location...</option>
+                        <option value="Cambodia">Cambodia</option>
+                        <option value="Hong Kong">Hong Kong</option>
+                        <option value="India">India</option>
+                        <option value="Japan">Japan</option>
+                        <option value="Korea">Korea</option>
+                        <option value="Laos">Laos</option>
+                        <option value="Myanmar">Myanmar</option>
+                        <option value="Singapore">Singapore</option>
+                        <option value="Thailand">Thailand</option>
+                        <option value="Vietnam">Vietnam</option>
+                    </select>
+                </fieldset>
+            </div>
+            <div class="col-md-6">
+                <fieldset>
+                    <label for="to">To:</label>
+                    <select asp-for="To" class="form-control" required>
+                        <option value="">Select a location...</option>
+                        <option value="Cambodia">Cambodia</option>
+                        <option value="Hong Kong">Hong Kong</option>
+                        <option value="India">India</option>
+                        <option value="Japan">Japan</option>
+                        <option value="Korea">Korea</option>
+                        <option value="Laos">Laos</option>
+                        <option value="Myanmar">Myanmar</option>
+                        <option value="Singapore">Singapore</option>
+                        <option value="Thailand">Thailand</option>
+                        <option value="Vietnam">Vietnam</option>
+                    </select>
+                </fieldset>
+            </div>
+            <div class="col-md-6">
+                <fieldset>
+                    <label for="departure">Departure date:</label>
+                    <input asp-for="DepartureDate" type="date" class="form-control" required />
+                    <span asp-validation-for="DepartureDate" class="text-danger"></span>
+                </fieldset>
+            </div>
+            <div class="col-md-6">
+                <fieldset>
+                    <label for="return">Return date:</label>
+                    <input asp-for="ReturnDate" type="date" class="form-control" />
+                    <span asp-validation-for="ReturnDate" class="text-danger"></span>
+                </fieldset>
+            </div>
+            <div class="col-md-6">
+                <div class="radio-select">
+                    <div class="row">
+                        <div class="col-md-6 col-sm-6 col-xs-6">
+                            <label for="round">Round</label>
+                            <input asp-for="Trip" type="radio" id="round" value="round" required />
+                        </div>
+                        <div class="col-md-6 col-sm-6 col-xs-6">
+                            <label for="oneway">Oneway</label>
+                            <input asp-for="Trip" type="radio" id="oneway" value="one-way" required />
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <fieldset>
+                    <button type="submit" class="btn">Order Ticket Now</button>
+                </fieldset>
+            </div>
+        </div>
+    </form>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

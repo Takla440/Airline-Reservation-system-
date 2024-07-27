@@ -1,0 +1,232 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\osaid\\Desktop\\AirlineReservationSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6055F17-0E1F-4A9C-82D5-6E65DC5893D7}|AirlineReservationSystem\\AirlineReservationSystem.csproj|c:\\users\\osaid\\desktop\\airlinereservationsystem\\airlinereservationsystem\\views\\booking\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6055F17-0E1F-4A9C-82D5-6E65DC5893D7}|AirlineReservationSystem\\AirlineReservationSystem.csproj|solutionrelative:airlinereservationsystem\\views\\booking\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6055F17-0E1F-4A9C-82D5-6E65DC5893D7}|AirlineReservationSystem\\AirlineReservationSystem.csproj|c:\\users\\osaid\\desktop\\airlinereservationsystem\\airlinereservationsystem\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6055F17-0E1F-4A9C-82D5-6E65DC5893D7}|AirlineReservationSystem\\AirlineReservationSystem.csproj|solutionrelative:airlinereservationsystem\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6055F17-0E1F-4A9C-82D5-6E65DC5893D7}|AirlineReservationSystem\\AirlineReservationSystem.csproj|c:\\users\\osaid\\desktop\\airlinereservationsystem\\airlinereservationsystem\\views\\users\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6055F17-0E1F-4A9C-82D5-6E65DC5893D7}|AirlineReservationSystem\\AirlineReservationSystem.csproj|solutionrelative:airlinereservationsystem\\views\\users\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6055F17-0E1F-4A9C-82D5-6E65DC5893D7}|AirlineReservationSystem\\AirlineReservationSystem.csproj|c:\\users\\osaid\\desktop\\airlinereservationsystem\\airlinereservationsystem\\data\\airlinedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6055F17-0E1F-4A9C-82D5-6E65DC5893D7}|AirlineReservationSystem\\AirlineReservationSystem.csproj|solutionrelative:airlinereservationsystem\\data\\airlinedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6055F17-0E1F-4A9C-82D5-6E65DC5893D7}|AirlineReservationSystem\\AirlineReservationSystem.csproj|c:\\users\\osaid\\desktop\\airlinereservationsystem\\airlinereservationsystem\\models\\bookingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6055F17-0E1F-4A9C-82D5-6E65DC5893D7}|AirlineReservationSystem\\AirlineReservationSystem.csproj|solutionrelative:airlinereservationsystem\\models\\bookingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6055F17-0E1F-4A9C-82D5-6E65DC5893D7}|AirlineReservationSystem\\AirlineReservationSystem.csproj|c:\\users\\osaid\\desktop\\airlinereservationsystem\\airlinereservationsystem\\views\\flights\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6055F17-0E1F-4A9C-82D5-6E65DC5893D7}|AirlineReservationSystem\\AirlineReservationSystem.csproj|solutionrelative:airlinereservationsystem\\views\\flights\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6055F17-0E1F-4A9C-82D5-6E65DC5893D7}|AirlineReservationSystem\\AirlineReservationSystem.csproj|c:\\users\\osaid\\desktop\\airlinereservationsystem\\airlinereservationsystem\\controllers\\flightscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6055F17-0E1F-4A9C-82D5-6E65DC5893D7}|AirlineReservationSystem\\AirlineReservationSystem.csproj|solutionrelative:airlinereservationsystem\\controllers\\flightscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6055F17-0E1F-4A9C-82D5-6E65DC5893D7}|AirlineReservationSystem\\AirlineReservationSystem.csproj|c:\\users\\osaid\\desktop\\airlinereservationsystem\\airlinereservationsystem\\views\\flights\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6055F17-0E1F-4A9C-82D5-6E65DC5893D7}|AirlineReservationSystem\\AirlineReservationSystem.csproj|solutionrelative:airlinereservationsystem\\views\\flights\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6055F17-0E1F-4A9C-82D5-6E65DC5893D7}|AirlineReservationSystem\\AirlineReservationSystem.csproj|c:\\users\\osaid\\desktop\\airlinereservationsystem\\airlinereservationsystem\\views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6055F17-0E1F-4A9C-82D5-6E65DC5893D7}|AirlineReservationSystem\\AirlineReservationSystem.csproj|solutionrelative:airlinereservationsystem\\views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6055F17-0E1F-4A9C-82D5-6E65DC5893D7}|AirlineReservationSystem\\AirlineReservationSystem.csproj|c:\\users\\osaid\\desktop\\airlinereservationsystem\\airlinereservationsystem\\views\\flights\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6055F17-0E1F-4A9C-82D5-6E65DC5893D7}|AirlineReservationSystem\\AirlineReservationSystem.csproj|solutionrelative:airlinereservationsystem\\views\\flights\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6055F17-0E1F-4A9C-82D5-6E65DC5893D7}|AirlineReservationSystem\\AirlineReservationSystem.csproj|c:\\users\\osaid\\desktop\\airlinereservationsystem\\airlinereservationsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6055F17-0E1F-4A9C-82D5-6E65DC5893D7}|AirlineReservationSystem\\AirlineReservationSystem.csproj|solutionrelative:airlinereservationsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6055F17-0E1F-4A9C-82D5-6E65DC5893D7}|AirlineReservationSystem\\AirlineReservationSystem.csproj|c:\\users\\osaid\\desktop\\airlinereservationsystem\\airlinereservationsystem\\models\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6055F17-0E1F-4A9C-82D5-6E65DC5893D7}|AirlineReservationSystem\\AirlineReservationSystem.csproj|solutionrelative:airlinereservationsystem\\models\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6055F17-0E1F-4A9C-82D5-6E65DC5893D7}|AirlineReservationSystem\\AirlineReservationSystem.csproj|c:\\users\\osaid\\desktop\\airlinereservationsystem\\airlinereservationsystem\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6055F17-0E1F-4A9C-82D5-6E65DC5893D7}|AirlineReservationSystem\\AirlineReservationSystem.csproj|solutionrelative:airlinereservationsystem\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\osaid\\Desktop\\AirlineReservationSystem\\AirlineReservationSystem\\Views\\Booking\\Create.cshtml",
+              "RelativeDocumentMoniker": "AirlineReservationSystem\\Views\\Booking\\Create.cshtml",
+              "ToolTip": "C:\\Users\\osaid\\Desktop\\AirlineReservationSystem\\AirlineReservationSystem\\Views\\Booking\\Create.cshtml",
+              "RelativeToolTip": "AirlineReservationSystem\\Views\\Booking\\Create.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAA8AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T14:03:46.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AirlineDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\osaid\\Desktop\\AirlineReservationSystem\\AirlineReservationSystem\\Data\\AirlineDbContext.cs",
+              "RelativeDocumentMoniker": "AirlineReservationSystem\\Data\\AirlineDbContext.cs",
+              "ToolTip": "C:\\Users\\osaid\\Desktop\\AirlineReservationSystem\\AirlineReservationSystem\\Data\\AirlineDbContext.cs",
+              "RelativeToolTip": "AirlineReservationSystem\\Data\\AirlineDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T14:03:47.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\osaid\\Desktop\\AirlineReservationSystem\\AirlineReservationSystem\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "AirlineReservationSystem\\Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Users\\osaid\\Desktop\\AirlineReservationSystem\\AirlineReservationSystem\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "AirlineReservationSystem\\Controllers\\BookingController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T14:03:47.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookingViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\osaid\\Desktop\\AirlineReservationSystem\\AirlineReservationSystem\\Models\\BookingViewModel.cs",
+              "RelativeDocumentMoniker": "AirlineReservationSystem\\Models\\BookingViewModel.cs",
+              "ToolTip": "C:\\Users\\osaid\\Desktop\\AirlineReservationSystem\\AirlineReservationSystem\\Models\\BookingViewModel.cs",
+              "RelativeToolTip": "AirlineReservationSystem\\Models\\BookingViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T14:03:47.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FlightsController.cs",
+              "DocumentMoniker": "C:\\Users\\osaid\\Desktop\\AirlineReservationSystem\\AirlineReservationSystem\\Controllers\\FlightsController.cs",
+              "RelativeDocumentMoniker": "AirlineReservationSystem\\Controllers\\FlightsController.cs",
+              "ToolTip": "C:\\Users\\osaid\\Desktop\\AirlineReservationSystem\\AirlineReservationSystem\\Controllers\\FlightsController.cs",
+              "RelativeToolTip": "AirlineReservationSystem\\Controllers\\FlightsController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAgwCwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T14:03:47.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Flight.cs",
+              "DocumentMoniker": "C:\\Users\\osaid\\Desktop\\AirlineReservationSystem\\AirlineReservationSystem\\Models\\Flight.cs",
+              "RelativeDocumentMoniker": "AirlineReservationSystem\\Models\\Flight.cs",
+              "ToolTip": "C:\\Users\\osaid\\Desktop\\AirlineReservationSystem\\AirlineReservationSystem\\Models\\Flight.cs",
+              "RelativeToolTip": "AirlineReservationSystem\\Models\\Flight.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAwwAoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T14:03:47.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\osaid\\Desktop\\AirlineReservationSystem\\AirlineReservationSystem\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AirlineReservationSystem\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\osaid\\Desktop\\AirlineReservationSystem\\AirlineReservationSystem\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AirlineReservationSystem\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAGwBAAAAAAAAAAAAAP0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T14:03:47.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\osaid\\Desktop\\AirlineReservationSystem\\AirlineReservationSystem\\Views\\Users\\Login.cshtml",
+              "RelativeDocumentMoniker": "AirlineReservationSystem\\Views\\Users\\Login.cshtml",
+              "ToolTip": "C:\\Users\\osaid\\Desktop\\AirlineReservationSystem\\AirlineReservationSystem\\Views\\Users\\Login.cshtml",
+              "RelativeToolTip": "AirlineReservationSystem\\Views\\Users\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T14:03:47.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\osaid\\Desktop\\AirlineReservationSystem\\AirlineReservationSystem\\Views\\Users\\Create.cshtml",
+              "RelativeDocumentMoniker": "AirlineReservationSystem\\Views\\Users\\Create.cshtml",
+              "ToolTip": "C:\\Users\\osaid\\Desktop\\AirlineReservationSystem\\AirlineReservationSystem\\Views\\Users\\Create.cshtml",
+              "RelativeToolTip": "AirlineReservationSystem\\Views\\Users\\Create.cshtml",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAAAH8AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T14:03:47.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\osaid\\Desktop\\AirlineReservationSystem\\AirlineReservationSystem\\Views\\Flights\\Create.cshtml",
+              "RelativeDocumentMoniker": "AirlineReservationSystem\\Views\\Flights\\Create.cshtml",
+              "ToolTip": "C:\\Users\\osaid\\Desktop\\AirlineReservationSystem\\AirlineReservationSystem\\Views\\Flights\\Create.cshtml",
+              "RelativeToolTip": "AirlineReservationSystem\\Views\\Flights\\Create.cshtml",
+              "ViewState": "AQIAAC0BAAAAAAAAAAAAAD8BAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T14:03:47.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\osaid\\Desktop\\AirlineReservationSystem\\AirlineReservationSystem\\Views\\Flights\\Index.cshtml",
+              "RelativeDocumentMoniker": "AirlineReservationSystem\\Views\\Flights\\Index.cshtml",
+              "ToolTip": "C:\\Users\\osaid\\Desktop\\AirlineReservationSystem\\AirlineReservationSystem\\Views\\Flights\\Index.cshtml",
+              "RelativeToolTip": "AirlineReservationSystem\\Views\\Flights\\Index.cshtml",
+              "ViewState": "AQIAACkBAAAAAAAAAAAAADIBAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T14:03:47.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\osaid\\Desktop\\AirlineReservationSystem\\AirlineReservationSystem\\Views\\Users\\Details.cshtml",
+              "RelativeDocumentMoniker": "AirlineReservationSystem\\Views\\Users\\Details.cshtml",
+              "ToolTip": "C:\\Users\\osaid\\Desktop\\AirlineReservationSystem\\AirlineReservationSystem\\Views\\Users\\Details.cshtml",
+              "RelativeToolTip": "AirlineReservationSystem\\Views\\Users\\Details.cshtml",
+              "ViewState": "AQIAADYBAAAAAAAAAAAAAEYBAAByAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T14:03:47.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\osaid\\Desktop\\AirlineReservationSystem\\AirlineReservationSystem\\Views\\Flights\\Details.cshtml",
+              "RelativeDocumentMoniker": "AirlineReservationSystem\\Views\\Flights\\Details.cshtml",
+              "ToolTip": "C:\\Users\\osaid\\Desktop\\AirlineReservationSystem\\AirlineReservationSystem\\Views\\Flights\\Details.cshtml",
+              "RelativeToolTip": "AirlineReservationSystem\\Views\\Flights\\Details.cshtml",
+              "ViewState": "AQIAADQBAAAAAAAAAAAAAEQBAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T14:03:47.269Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
